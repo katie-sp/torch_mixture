@@ -7,4 +7,4 @@ Fitting is fast due to the following factors:
 * EM optimization is implemented in pytorch using torch's Adam optimizer to take one step each iteration rather than carry out full M-step optimization
 
 ### Installation:
-pip install --index-url https://test.pypi.org/simple/ --no-deps torch-mixture-katies
+pip install --index-url ht&#8203;tps://test.pypi.org/simple/ --no-deps torch-mixture-katies  

@@ -8,3 +8,5 @@ Fitting is fast due to the following factors:
 
 ### Installation:
 pip install --index-url ht&#8203;tps://test.pypi.org/simple/ --no-deps torch-mixture-katies  
+
+For more information, see https://test.pypi.org/project/torch-mixture-katies/
